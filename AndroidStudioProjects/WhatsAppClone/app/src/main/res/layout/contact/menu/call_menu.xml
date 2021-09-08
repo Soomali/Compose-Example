@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item android:id="@+id/deleteCalls"
+        android:icon="@null"
+        android:title="Arama kayıtlarını sil"
+        />
+    <item android:id="@+id/callSettings"
+        android:title="@string/ayarlar"
+        android:icon="@null"/>
+
+</menu>

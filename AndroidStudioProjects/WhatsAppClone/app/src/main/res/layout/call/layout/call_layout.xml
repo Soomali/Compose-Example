@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical"
+
+    android:theme="@style/Theme.WhatsAppClone.ContactTheme"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/storyImageView"
+            android:layout_width="61dp"
+            android:layout_height="61dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/ben"
+            app:civ_border_width="0dp" />
+
+        <LinearLayout
+            android:layout_width="222dp"
+            android:layout_height="61dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/callContactName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/callOutInView"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_weight="1"
+                    android:rotation="0"
+                    app:srcCompat="@drawable/arrow"
+                    app:tint="@color/green" />
+
+                <TextView
+                    android:id="@+id/callDate"
+                    android:layout_width="212dp"
+                    android:layout_height="wrap_content"
+                    android:text="TextView" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/callTypeButton"
+            android:layout_width="76dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+
+            android:scaleType="centerInside"
+            app:backgroundTint="@color/black"
+            app:icon="@drawable/arrow"
+            app:iconSize="50dp"
+            app:iconTint="@color/green"
+
+
+            tools:targetApi="lollipop" />
+    </LinearLayout>
+</LinearLayout>

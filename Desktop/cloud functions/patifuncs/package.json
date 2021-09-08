@@ -1,0 +1,14 @@
+{
+  "name": "patifuncs",
+  "version": "1.0.0",
+  "description": "pati functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mehmetali günaydın",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  }
+}

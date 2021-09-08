@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="343dp"
+        android:layout_marginLeft="343dp"
+        android:layout_marginBottom="75dp"
+        android:clickable="true"
+        android:contentDescription="@string/todo"
+        android:focusable="true"
+        app:fabCustomSize="60dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:maxImageSize="40dp"
+        app:srcCompat="@android:drawable/ic_menu_add" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/deleteCard"
+        android:layout_width="51dp"
+        android:layout_height="51dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="11dp"
+
+        android:layout_marginEnd="192dp"
+        android:layout_marginRight="192dp"
+        android:layout_marginBottom="620dp"
+        android:visibility="visible"
+        app:cardBackgroundColor="@color/black"
+        app:cardCornerRadius="150dp" >
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="9dp"
+
+            android:layout_marginTop="10dp"
+            app:srcCompat="@android:drawable/ic_delete"
+            app:tint="@color/deleteButton"
+            android:layout_marginLeft="9dp" />
+    </androidx.cardview.widget.CardView>
+
+    <GridView
+        android:id="@+id/grid_view"
+        android:layout_width="394dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="64dp"
+        android:columnWidth="119dp"
+        android:fadeScrollbars="false"
+        android:horizontalSpacing="@dimen/cardview_compat_inset_shadow"
+        android:numColumns="2"
+        android:scrollbarSize="0dp"
+        android:verticalSpacing="@dimen/cardview_default_elevation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </GridView>
+
+
+</RelativeLayout>
