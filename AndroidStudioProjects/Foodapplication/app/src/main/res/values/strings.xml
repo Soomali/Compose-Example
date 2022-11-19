@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Food application</string>
+    <string name="fellah_kofte">Fellah Köfte</string>
+    <string name="fellah_kofte_duration">24 dakika</string>
+    <string name="fellah_kofte_ingredients"><b>*</b>2 su bardağı köftelik bulgur
+<b>*</b>2 su bardağı sıcak su
+<b>*</b>1 su bardağı irmik
+<b>*</b>3 yemek kaşığı un
+<b>*</b>1 yemek kaşığı domates salçası
+<b>*</b>1 yemek kaşığı biber salçası
+<b>*</b>1 tatlı kaşığı tuz</string>
+
+    <string name="fellah_kofte_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="karniyarik">Karnıyarık</string>
+    <string name="karniyarik_duration">1 saat 10 dakika</string>
+    <string name="karniyarik_ingredients"><b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+    <string name="karniyarik_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="mayali_pogaca">Mayalı Poğaça</string>
+    <string name="mayali_pogaca_duration">30 dakika</string>
+    <string name="mayali_pogaca_ingredients">
+        <b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+
+    <string name="mayali_pogaca_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="kisir">Kısır</string>
+    <string name="kisir_duration">45 dakika</string>
+    <string name="kisir_ingredients"><b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+
+    <string name="kisir_recipe">
+        Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="mercimek_koftesi">Mercimek Koftesi</string>
+    <string name="mercimek_koftesi_duration">45 dakika</string>
+    <string name="mercimek_koftesi_ingredients"><b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+    <string name="mercimek_koftesi_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="mozaik_pasta">Mozaik Pasta</string>
+    <string name="mozaik_pasta_duration">45 dakika</string>
+    <string name="mozaik_pasta_ingredients"><b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+    <string name="mozaik_pasta_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="patates_oturtma">Patates Oturtma</string>
+    <string name="patates_oturtma_duration">45 dakika</string>
+    <string name="patates_oturtma_ingredients"><b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+    <string name="patates_oturtma_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="pilavli_patlican_kapama">Pilavlı Patlıcan Kapama</string>
+    <string name="pilavli_patlican_kapama_duration">60 dakika</string>
+    <string name="pilavli_patlican_kapama_ingredients"><b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+    <string name="pilavli_patlican_kapama_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="sarma">Sarma</string>
+    <string name="sarma_duration">60 dakika</string>
+    <string name="sarma_ingredients"><b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+    <string name="sarma_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+    <string name="tiramisu">Tiramusu</string>
+    <string name="tiramisu_duration">60 dakika</string>
+    <string name="tiramisu_ingredients"><b>*</b>6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)
+<b>*</b>3 adet sivri biber
+<b>*</b>2 adet sivri biber
+<b>*</b>2 diş sarımsak
+<b>*</b>Sıvı yağ, tuz, karabiber, kırmızıbiber
+<b>*</b>200 gr kıyma
+<b>*</b>1 tatlı kaşığı tuz</string>
+    <string name="tiramisu_recipe">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n
+İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n
+Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n
+Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n
+Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n
+Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n
+Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n
+Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n
+Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir.
+    </string>
+
+</resources>
