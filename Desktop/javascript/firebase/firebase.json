@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "runtime":"nodejs16",
+    "ignore": [
+      "node_modules",
+      ".git",
+      "firebase-debug.log",
+      "firebase-debug.*.log"
+    ]
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
