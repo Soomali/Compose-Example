@@ -30,10 +30,17 @@ exports.sendNotification = functions.https.onRequest(async (req, res) => {
       android: {
         priority: "high",
       },
-      apns:{
-        payload:{
-          aps: ""
-        }
+      apns: {
+        payload: {
+          aps: {
+            contentAvailable: true,
+          }
+        },
+        headers: {
+          'apns-push-type': 'background',
+          'apns-priority': '5',
+          'apns-topic': 'org.poolytech', // your app bundle identifier
+        },
       },
       data: { type: notificationPayload.type, ...notificationPayload.payload },
       tokens: notificationPayload.deviceTokens,
@@ -93,7 +100,7 @@ exports.sendImage = functions.https.onRequest(async (req, res) => {
           moreOrEqualThanPossible(safeSearch.medical) ||
           moreOrEqualThanPossible(safeSearch.spoof)
         ) {
-          return res.status(403).json({ error: "image contains NSFW content." });
+          return res.status(403).json({ error: "Resim uygunsuz içerik içeriyor." });
         }
 
         const bucket = storage.bucket("gs://pooly-tech.appspot.com");
@@ -106,7 +113,7 @@ exports.sendImage = functions.https.onRequest(async (req, res) => {
         };
         const time = new Date().getTime();
         let destination = filePath + "/" + userID;
-        if(filePath == 'messageImages'){
+        if (filePath == 'messageImages') {
           destination += time.toString();
         }
         const file = bucket.file(destination);
