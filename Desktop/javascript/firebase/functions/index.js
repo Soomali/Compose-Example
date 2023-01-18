@@ -22,10 +22,9 @@ exports.sendNotification = functions.https.onRequest(async (req, res) => {
         ...additionalFields
       },
       deviceTokens:[String]
-
     */
     const notificationPayload = req.body;
-    //TODO add APNs headers for IOS
+    functions.logger.info(notificationPayload);
     const payload = {
       android: {
         priority: "high",
